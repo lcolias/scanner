@@ -1,3 +1,5 @@
+# Scanner Project
+
 The scanner is complete according to the specifications outlined on the project sheet. 
 Major Notes:
 
